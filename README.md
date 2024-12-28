@@ -130,7 +130,7 @@ These errors correspond to HTTP status codes and indicate issues with the server
 
 ---
 
-## Usage Example: Handling Errors with `EverlinkError`
+## Usage Example: Handling Errors - Android (Java)
 
 When an error occurs, the SDK throws an `EverlinkError` exception containing the error code and message. You can catch and handle these exceptions as shown below:
 
