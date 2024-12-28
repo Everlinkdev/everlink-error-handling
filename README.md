@@ -1,3 +1,5 @@
+
+
 # Everlink Error Codes Documentation
 
 The SDK provides detailed error codes to help developers diagnose and resolve issues efficiently. Errors are grouped by type, and each code is associated with a descriptive message to clarify the issue.
